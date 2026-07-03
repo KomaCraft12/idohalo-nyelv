@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.3 – 2026-07-03
+
+### Hozzáadva
+
+- `docs/core-concepts.md`
+- Az alapfogalmak kutatási dokumentuma.
+- A nem hierarchikus alapmodell vizsgálata.
+
+### Döntések
+
+- Nem kell mindenáron egyetlen végső építőelemet keresni.
+- A nyelv világmodellje több egymást támogató alapfogalom hálózatából is felépülhet.
+- A kérdés nem az, hogy mi az egyetlen igaz alap, hanem hogy mi az a legkisebb fogalomkészlet, amelyből a nyelv következetesen és használhatóan építhető.
+
 ## 0.1.2 – 2026-07-03
 
 ### Hozzáadva
