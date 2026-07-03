@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.1.2 – 2026-07-03
+
+### Hozzáadva
+
+- `docs/design-principles.md`
+- A kommunikáció elsődlegessége mint tervezési alapelv.
+- A mélystruktúra és felszíni szerkezet elkülönítése.
+- Az elv, hogy a beszélőnek nem kell minden mondatban teljes eseményhálót kirajzolnia.
+
+### Döntések
+
+- A kapcsolat-, esemény- és időháló-alapú mélystruktúra nem teheti túl bonyolulttá a hétköznapi beszédet.
+- A nyelvnek egyszerű felszíni formákat kell biztosítania a mindennapi kommunikációhoz.
+- A szép vagy mély ötletek önmagukban nem elegendőek; használhatónak is kell lenniük.
+
 ## 0.1.1 – 2026-07-03
 
 ### Hozzáadva
