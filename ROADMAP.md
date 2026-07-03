@@ -5,6 +5,7 @@
 - [x] Az idő nemlineáris modelljének kiválasztása
 - [x] Az eseményháló mint központi metafora
 - [x] A projekt kezdőstruktúrájának létrehozása
+- [x] A használhatóság elvének elfogadása
 - [ ] A Nyelv Alkotmányának első stabil változata
 
 ## 0.2 – Eseménycsomópontok
@@ -20,6 +21,7 @@
 - [ ] Résztvevők és szerepek rendszere
 - [ ] Bizonyosságjelölés
 - [ ] Lineáris igeidők kiváltása
+- [ ] Használhatósági szűrő minden új nyelvtani szabályhoz
 
 ## 0.4 – Írásrendszer
 
@@ -27,6 +29,7 @@
 - [ ] Hálóírás alapelvei
 - [ ] Eseménycsomópontok grafikus jelölése
 - [ ] Kapcsolatok grafikus jelölése
+- [ ] A hálóírás opcionális, magasabb rétegként való kezelése
 
 ## 0.5 – Első szókincs
 
@@ -41,3 +44,4 @@
 - [ ] Egyszerű hétköznapi közlések
 - [ ] Filozófiai példaszöveg
 - [ ] Hálóírásos példa
+- [ ] Alapréteg, amely kezdők számára is tanulható
