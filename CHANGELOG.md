@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.4 – 2026-07-03
+
+### Hozzáadva
+
+- `docs/project-risks.md`
+- Projektkockázatok és halálcsapdák dokumentuma.
+- Projektmottó: „Nem a legkülönlegesebb nyelvet akarjuk megalkotni, hanem a legkövetkezetesebbet.”
+
+### Döntések
+
+- Tudatosan kerülni kell az öncélú különlegességet.
+- Kerülni kell a „mindent bele” csapdát.
+- A filozófia nem uralkodhat el a mindennapi használhatóságon.
+- A projekt nem akarja megírni a világ végső igazságát; következetes és használható nyelvet akar tervezni.
+- A dokumentációt strukturáltan kell vezetni, hogy a projekt ne veszítse el saját logikáját.
+
 ## 0.1.3 – 2026-07-03
 
 ### Hozzáadva
