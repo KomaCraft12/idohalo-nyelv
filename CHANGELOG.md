@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.5 – 2026-07-03
+
+### Hozzáadva
+
+- `docs/thinking-model.md`
+- A gondolkodási modell kutatási dokumentuma.
+- A kapcsolatok, hatások, mintázatok, tudás eredete és nézőpont mint kiemelt kutatási irányok.
+
+### Döntések
+
+- A nyelv célja nem az, hogy „okosabbá” tegye a beszélőt, hanem hogy más összefüggések észrevételét segítse.
+- A tudás eredete és bizonyosság jelölése egyelőre kutatási irány, nem kötelező nyelvtani vagy alkotmányos szabály.
+- A nyelv ne több információ kimondását kényszerítse ki, hanem többféle gondolkodási lehetőséget kínáljon.
+
 ## 0.1.4 – 2026-07-03
 
 ### Hozzáadva
