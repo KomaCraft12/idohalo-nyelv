@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.2.0 – 2026-07-04
+
+### Hozzáadva
+
+- `docs/language-core-v0.1.md`
+- `docs/concept-architecture.md`
+- `docs/lexicon-model.md`
+- Az első összefogott nyelvi alapmodell.
+- A fogalmi csomópont mint lehetséges mélyrétegbeli egység.
+- A szótár mint fogalmi csomópontok rétegzett térképe.
+
+### Döntések
+
+- A projekt gyorsított szakaszba lépett: az eddigi kutatási irányokat egy első munkamodellbe rendeztük.
+- A nyelv mélyrétege nem egyszerűen szavakból indulhat ki, hanem fogalmi csomópontokból.
+- A szó a fogalom egyik felszíni megjelenése lehet, nem feltétlenül a legmélyebb egység.
+- A beszéd, sorírás, hálóírás és későbbi gépi/gráfos reprezentáció ugyanabból a fogalmi mélyrétegből vezethető le.
+- A szótárnak rétegzettnek kell lennie: gyors szótár, tanulói szótár, teljes fogalmi szótár.
+- A következő szakaszban már első példamondatok, kapcsolatjelölések és fogalmi csomópontok tesztelése következhet.
+
 ## 0.1.6 – 2026-07-04
 
 ### Hozzáadva
