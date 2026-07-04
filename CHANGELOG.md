@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.6 – 2026-07-04
+
+### Hozzáadva
+
+- `docs/meaning-network.md`
+- A jelentésháló kutatási dokumentuma.
+- A közös jelentés és személyes jelentésháló elkülönítése.
+- A kommunikáció mint jelentéshálók közelítése / összehangolása.
+
+### Döntések
+
+- A szó nem feltétlenül maga a jelentés, hanem kulcs egy jelentésháló aktiválásához.
+- A nyelvnek nem kell minden személyes élményt kódolnia.
+- A szótár később nemcsak fordítási lista lehet, hanem fogalmi hálókat is tartalmazhat.
+- Ez egyelőre kutatási tétel, nem alkotmányos szabály.
+
 ## 0.1.5 – 2026-07-03
 
 ### Hozzáadva
